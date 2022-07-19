@@ -2,12 +2,10 @@
 a = 10
 b = 20.5
 c = 4 + 7j
-d=1000
 
 a1, b1, c1 = 100, 200, 300
 # del a1
 print(a1, b1, c1)
-
 
 print(type(a))
 print(type(b))
