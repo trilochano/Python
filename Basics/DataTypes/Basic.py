@@ -7,6 +7,7 @@ print(test)
 print(test)
 print(test)
 
+test = 20
 
 def main():  # todo this finish function
     test1 = 10
